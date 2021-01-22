@@ -17,6 +17,6 @@ The random forest model has the best results, with a mean absolute error of 6.75
 Model | MAE
 --- | ---
 Simple decision tree | 9.196
-Decision tree (GridSearchCV) | 6.942  
+Decision tree (GridSearchCV) | 6.915  
 Decision tree (max_leaf_nodes) | 6.829  
 Random Forest | 6.750 
